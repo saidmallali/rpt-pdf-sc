@@ -1,0 +1,62 @@
+module.exports = [ 
+    {
+        url:'https://www.egr.msu.edu/bme/form/bmeiq-online-order-form',
+        localeFile:'C:/Users/HP/Desktop/cpa-templates/instagram/free_instagram_followers_1.pdf',
+        urlToWatch:'https://www.egr.msu.edu/bme/sites/default/files/webform/free_instagram_followers.pdf',
+        name:'my_ws_1',
+        fileNewName:'C:/Users/HP/Desktop/cpa-templates/instagram/free_instagram_followers.pdf'
+    },
+    {
+        url:'https://www.egr.msu.edu/bme/form/bmeiq-online-order-form',
+        localeFile:'C:/Users/HP/Desktop/cpa-templates/instagram/free_instagram_followers_2.pdf',
+        urlToWatch:'https://www.egr.msu.edu/bme/sites/default/files/webform/Free-instagram-followers-generator-rewards.pdf',
+        name:'my_ws_2',
+        fileNewName:'C:/Users/HP/Desktop/cpa-templates/instagram/Free-instagram-followers-generator-rewards.pdf'
+    },
+    {
+        url:'https://www.amphenol-socapex.com/en/spontaneous-application',
+        localeFile:'C:/Users/HP/Desktop/cpa-templates/instagram/free_instagram_followers_3.pdf',
+        urlToWatch:'https://www.amphenol-socapex.com/sites/default/files/webform/free-instagram-followers-generator-rewards.pdf',
+        name:'my_ws_3',
+        fileNewName:'C:/Users/HP/Desktop/cpa-templates/instagram/Free-instagram-followers-generator-rewards.pdf'
+    },
+    {
+        url:'https://www.amphenol-socapex.com/en/spontaneous-application',
+        localeFile:'C:/Users/HP/Desktop/cpa-templates/instagram/free_instagram_followers_4.pdf',
+        urlToWatch:'https://www.amphenol-socapex.com/sites/default/files/webform/free_instagram_followers.pdf',
+        name:'my_ws_4',
+        fileNewName:'C:/Users/HP/Desktop/cpa-templates/instagram/free_instagram_followers.pdf'
+    },
+    {
+        url:'https://physics.asu.edu/content/physics-copy-request',
+        localeFile:'C:/Users/HP/Desktop/cpa-templates/instagram/free_instagram_followers_1.pdf',
+        urlToWatch:'https://physics.asu.edu/system/files/webform/free-instagram-followers-generator-rewards.pdf',
+        name:'my_ws_5',
+        fileNewName:'C:/Users/HP/Desktop/cpa-templates/instagram/free-instagram-followers-generator-rewards.pdf'
+    },
+    {
+        url:'https://physics.asu.edu/content/physics-copy-request',
+        localeFile:'C:/Users/HP/Desktop/cpa-templates/instagram/free_instagram_followers_1.pdf',
+        urlToWatch:'https://physics.asu.edu/system/files/webform/free_instagram_followers.pdf',
+        name:'my_ws_6',
+        fileNewName:'C:/Users/HP/Desktop/cpa-templates/instagram/free_instagram_followers.pdf'
+    },
+    {
+        url:'https://ncifrederick.cancer.gov/Services/Spgm/filedrop',
+        localeFile:'C:/Users/HP/Desktop/cpa-templates/instagram/free_instagram_followers_2.pdf',
+        urlToWatch:'https://ncifrederick.cancer.gov/Services/Spgm/sites/default/files/filefield_paths/free_instagram_followers.pdf',
+        name:'my_ws_8',
+        fileNewName:'C:/Users/HP/Desktop/cpa-templates/instagram/free_instagram_followers.pdf'
+    },
+    {
+        url:'https://ncifrederick.cancer.gov/Services/Spgm/filedrop',
+        localeFile:'C:/Users/HP/Desktop/cpa-templates/instagram/free_instagram_followers_3.pdf',
+        urlToWatch:'https://ncifrederick.cancer.gov/Services/Spgm/sites/default/files/filefield_paths/Free-instagram-followers-generator-rewards.pdf',
+        name:'my_ws_9',
+        fileNewName:'C:/Users/HP/Desktop/cpa-templates/instagram/Free-instagram-followers-generator-rewards.pdf'
+    },
+    
+
+    
+    
+]
