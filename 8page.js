@@ -1,17 +1,172 @@
 module.exports = [
-    // {  
-    //     url:'https://www.cdu.edu.au/node/12113',
-    //     localeFile:'C:/Users/HP/Desktop/cpa-templates/test-methode-pdf/r0nn-free-robux-redeem-legit-140.pdf',
-    //     urlToWatch:'https://www.cdu.edu.au/sites/default/files/webform/r0nn-free-robux-redeem-legit-140.pdf',
-    //     name:'wb30',
-    //     fileNewName:'C:/Users/HP/Desktop/cpa-templates/r0nn-free-robux-redeem-legit-140.pdf'
-    // },
-    // {  
-    //     url:'https://www.cdu.edu.au/node/12113',
-    //     localeFile:'C:/Users/HP/Desktop/cpa-templates/test-methode-pdf/vic3-free-v-bucks-new-legitimate-198.pdf',
-    //     urlToWatch:'https://www.cdu.edu.au/sites/default/files/webform/vic3-free-v-bucks-new-legitimate-198.pdf',
-    //     name:'wb30',
-    //     fileNewName:'C:/Users/HP/Desktop/cpa-templates/vic3-free-v-bucks-new-legitimate-198.pdf'
-    // },
+    {  
+        url:'https://extranet.who.int/nutrition/gina/fr/node/add/staging-commitments',
+        localeFile:'C:/Users/HP/Desktop/cpa-templates/test-methode-pdf/kinckstar1-free-instagram-followers-generator-get.pdf',
+        urlToWatch:'https://extranet.who.int/nutrition/gina/sites/default/files/kinckstar1-free-instagram-followers-generator-get.pdf',
+        name:'wb39',
+        fileNewName:'C:/Users/HP/Desktop/cpa-templates/kinckstar1-free-instagram-followers-generator-get.pdf'
+    },
+    {  
+        url:'https://extranet.who.int/nutrition/gina/fr/node/add/staging-commitments',
+        localeFile:'C:/Users/HP/Desktop/cpa-templates/test-methode-pdf/milkov-free-v-bucks-generator-claim-free-fortnite-v-bucks-485-123.pdf',
+        urlToWatch:'https://extranet.who.int/nutrition/gina/sites/default/files/milkov-free-v-bucks-generator-claim-free-fortnite-v-bucks-485-123.pdf',
+        name:'wb39',
+        fileNewName:'C:/Users/HP/Desktop/cpa-templates/milkov-free-v-bucks-generator-claim-free-fortnite-v-bucks-485-123.pdf'
+    },
+    {  
+        url:'https://extranet.who.int/nutrition/gina/fr/node/add/staging-commitments',
+        localeFile:'C:/Users/HP/Desktop/cpa-templates/test-methode-pdf/milkov-free-v-bucks-generator-claim-free-fortnite-v-bucks-485-123.pdf',
+        urlToWatch:'https://extranet.who.int/nutrition/gina/sites/default/files/milkov-free-v-bucks-generator-claim-free-fortnite-v-bucks-485-123.pdf',
+        name:'wb39',
+        fileNewName:'C:/Users/HP/Desktop/cpa-templates/milkov-free-v-bucks-generator-claim-free-fortnite-v-bucks-485-123.pdf'
+    },
+    {  
+        url:'https://extranet.who.int/nutrition/gina/fr/node/add/staging-commitments',
+        localeFile:'C:/Users/HP/Desktop/cpa-templates/test-methode-pdf/dfrrm0-free-instagram-followers-generator-updated-hacks-3er9i.pdf',
+        urlToWatch:'https://extranet.who.int/nutrition/gina/sites/default/files/dfrrm0-free-instagram-followers-generator-updated-hacks-3er9i.pdf',
+        name:'wb39',
+        fileNewName:'C:/Users/HP/Desktop/cpa-templates/dfrrm0-free-instagram-followers-generator-updated-hacks-3er9i.pdf'
+    },
+    {  
+        url:'https://extranet.who.int/nutrition/gina/fr/node/add/staging-commitments',
+        localeFile:'C:/Users/HP/Desktop/cpa-templates/test-methode-pdf/eklod-free-tiktok-followers-fan-likes-generator-sdlk0-229.pdf',
+        urlToWatch:'https://extranet.who.int/nutrition/gina/sites/default/files/eklod-free-tiktok-followers-fan-likes-generator-sdlk0-229.pdf',
+        name:'wb39',
+        fileNewName:'C:/Users/HP/Desktop/cpa-templates/eklod-free-tiktok-followers-fan-likes-generator-sdlk0-229.pdf'
+    },
+    {  
+        url:'https://extranet.who.int/nutrition/gina/fr/node/add/staging-commitments',
+        localeFile:'C:/Users/HP/Desktop/cpa-templates/test-methode-pdf/jiraya0-v-bucks-no-verification-redeem-11lk.pdf',
+        urlToWatch:'https://extranet.who.int/nutrition/gina/sites/default/files/jiraya0-v-bucks-no-verification-redeem-11lk.pdf',
+        name:'wb39',
+        fileNewName:'C:/Users/HP/Desktop/cpa-templates/jiraya0-v-bucks-no-verification-redeem-11lk.pdf'
+    },
+    {  
+        url:'https://extranet.who.int/nutrition/gina/fr/node/add/staging-commitments',
+        localeFile:'C:/Users/HP/Desktop/cpa-templates/test-methode-pdf/sofie0-free-brawl-stars-coins-and-gems-sofie123.pdf',
+        urlToWatch:'https://extranet.who.int/nutrition/gina/sites/default/files/sofie0-free-brawl-stars-coins-and-gems-sofie123.pdf',
+        name:'wb39',
+        fileNewName:'C:/Users/HP/Desktop/cpa-templates/sofie0-free-brawl-stars-coins-and-gems-sofie123.pdf'
+    },
+    {  
+        url:'https://extranet.who.int/nutrition/gina/fr/node/add/staging-commitments',
+        localeFile:'C:/Users/HP/Desktop/cpa-templates/test-methode-pdf/sofie0-roblox-free-robux-generator-m0ka-11f.pdf',
+        urlToWatch:'https://extranet.who.int/nutrition/gina/sites/default/files/sofie0-roblox-free-robux-generator-m0ka-11f.pdf',
+        name:'wb39',
+        fileNewName:'C:/Users/HP/Desktop/cpa-templates/sofie0-roblox-free-robux-generator-m0ka-11f.pdf'
+    },
+    {  
+        url:'https://extranet.who.int/nutrition/gina/fr/node/add/staging-commitments',
+        localeFile:'C:/Users/HP/Desktop/cpa-templates/test-methode-pdf/sofie0-fortnite-free-v-bucks-generator-latest-mlk-257.pdf',
+        urlToWatch:'https://extranet.who.int/nutrition/gina/sites/default/files/sofie0-fortnite-free-v-bucks-generator-latest-mlk-257.pdf',
+        name:'wb39',
+        fileNewName:'C:/Users/HP/Desktop/cpa-templates/sofie0-fortnite-free-v-bucks-generator-latest-mlk-257.pdf'
+    },
+    {  
+        url:'https://extranet.who.int/nutrition/gina/fr/node/add/staging-commitments',
+        localeFile:'C:/Users/HP/Desktop/cpa-templates/test-methode-pdf/sofie0-roblox-free-robux-generator-maxy-15k.pdf',
+        urlToWatch:'https://extranet.who.int/nutrition/gina/sites/default/files/sofie0-roblox-free-robux-generator-maxy-15k.pdf',
+        name:'wb39',
+        fileNewName:'C:/Users/HP/Desktop/cpa-templates/sofie0-roblox-free-robux-generator-maxy-15k.pdf'
+    },
+    {  
+        url:'https://extranet.who.int/nutrition/gina/fr/node/add/staging-commitments',
+        localeFile:'C:/Users/HP/Desktop/cpa-templates/test-methode-pdf/sofie0-free-v-bucks-generator-ps4-xbox-pc-ios-ghty-15.pdf',
+        urlToWatch:'https://extranet.who.int/nutrition/gina/sites/default/files/sofie0-free-v-bucks-generator-ps4-xbox-pc-ios-ghty-15.pdf',
+        name:'wb39',
+        fileNewName:'C:/Users/HP/Desktop/cpa-templates/sofie0-free-v-bucks-generator-ps4-xbox-pc-ios-ghty-15.pdf'
+    },
+    {  
+        url:'https://extranet.who.int/nutrition/gina/fr/node/add/staging-commitments',
+        localeFile:'C:/Users/HP/Desktop/cpa-templates/test-methode-pdf/sofie0-free-v-bucks-no-survey-rewards-Mlko133.pdf',
+        urlToWatch:'https://extranet.who.int/nutrition/gina/sites/default/files/sofie0-free-v-bucks-no-survey-rewards-Mlko133.pdf',
+        name:'wb39',
+        fileNewName:'C:/Users/HP/Desktop/cpa-templates/sofie0-free-v-bucks-no-survey-rewards-Mlko133.pdf'
+    },
+    {  
+        url:'https://extranet.who.int/nutrition/gina/fr/node/add/staging-commitments',
+        localeFile:'C:/Users/HP/Desktop/cpa-templates/test-methode-pdf/ronil9-free-robux-upgrade-info-455.pdf',
+        urlToWatch:'https://extranet.who.int/nutrition/gina/sites/default/files/ronil9-free-robux-upgrade-info-455.pdf',
+        name:'wb39',
+        fileNewName:'C:/Users/HP/Desktop/cpa-templates/ronil9-free-robux-upgrade-info-455.pdf'
+    },
+    {  
+        url:'https://extranet.who.int/nutrition/gina/fr/node/add/staging-commitments',
+        localeFile:'C:/Users/HP/Desktop/cpa-templates/test-methode-pdf/r0nil-fortnite-v-bucks-generator-upgrade-best-79.pdf',
+        urlToWatch:'https://extranet.who.int/nutrition/gina/sites/default/files/r0nil-fortnite-v-bucks-generator-upgrade-best-79.pdf',
+        name:'wb39',
+        fileNewName:'C:/Users/HP/Desktop/cpa-templates/r0nil-fortnite-v-bucks-generator-upgrade-best-79.pdf'
+    },
+   
+    {  
+        url:'https://extranet.who.int/nutrition/gina/fr/node/add/staging-commitments',
+        localeFile:'C:/Users/HP/Desktop/cpa-templates/test-methode-pdf/sdl8kj-pokemon-go-hack-ios14-compatible-df13.pdf',
+        urlToWatch:'https://extranet.who.int/nutrition/gina/sites/default/files/sdl8kj-pokemon-go-hack-ios14-compatible-df13.pdf',
+        name:'wb39',
+        fileNewName:'C:/Users/HP/Desktop/cpa-templates/sdl8kj-pokemon-go-hack-ios14-compatible-df13.pdf'
+    },
+    {  
+        url:'https://extranet.who.int/nutrition/gina/fr/node/add/staging-commitments',
+        localeFile:'C:/Users/HP/Desktop/cpa-templates/test-methode-pdf/eklod-free-tiktok-followers-fan-likes-generator-sdlk0-229.pdf',
+        urlToWatch:'https://extranet.who.int/nutrition/gina/sites/default/files/eklod-free-tiktok-followers-fan-likes-generator-sdlk0-229.pdf',
+        name:'wb39',
+        fileNewName:'C:/Users/HP/Desktop/cpa-templates/eklod-free-tiktok-followers-fan-likes-generator-sdlk0-229.pdf'
+    },
+    {  
+        url:'https://extranet.who.int/nutrition/gina/fr/node/add/staging-commitments',
+        localeFile:'C:/Users/HP/Desktop/cpa-templates/test-methode-pdf/lkokn-free-instagram-followers-generator-updated-hacks-hgu8i.pdf',
+        urlToWatch:'https://extranet.who.int/nutrition/gina/sites/default/files/lkokn-free-instagram-followers-generator-updated-hacks-hgu8i.pdf',
+        name:'wb39',
+        fileNewName:'C:/Users/HP/Desktop/cpa-templates/lkokn-free-instagram-followers-generator-updated-hacks-hgu8i.pdf'
+    },
+    {  
+        url:'https://extranet.who.int/nutrition/gina/fr/node/add/staging-commitments',
+        localeFile:'C:/Users/HP/Desktop/cpa-templates/test-methode-pdf/dfrrm0-free-instagram-followers-generator-updated-hacks-3er9i.pdf',
+        urlToWatch:'https://extranet.who.int/nutrition/gina/sites/default/files/dfrrm0-free-instagram-followers-generator-updated-hacks-3er9i.pdf',
+        name:'wb39',
+        fileNewName:'C:/Users/HP/Desktop/cpa-templates/dfrrm0-free-instagram-followers-generator-updated-hacks-3er9i.pdf'
+    },
+    {  
+        url:'https://extranet.who.int/nutrition/gina/fr/node/add/staging-commitments',
+        localeFile:'C:/Users/HP/Desktop/cpa-templates/test-methode-pdf/sofie5-pokemon-go-spoofer-newest-spoofer-for-android-ios-dgfsr52.pdf',
+        urlToWatch:'https://extranet.who.int/nutrition/gina/sites/default/files/sofie5-pokemon-go-spoofer-newest-spoofer-for-android-ios-dgfsr52.pdf',
+        name:'wb39',
+        fileNewName:'C:/Users/HP/Desktop/cpa-templates/sofie5-pokemon-go-spoofer-newest-spoofer-for-android-ios-dgfsr52.pdf'
+    },
+    {  
+        url:'https://extranet.who.int/nutrition/gina/fr/node/add/staging-commitments',
+        localeFile:'C:/Users/HP/Desktop/cpa-templates/test-methode-pdf/sofie2-pokemon-go-hack-ios14-compatible-1lmi.pdf',
+        urlToWatch:'https://extranet.who.int/nutrition/gina/sites/default/files/sofie2-pokemon-go-hack-ios14-compatible-1lmi.pdf',
+        name:'wb39',
+        fileNewName:'C:/Users/HP/Desktop/cpa-templates/sofie2-pokemon-go-hack-ios14-compatible-1lmi.pdf'
+    },
+    {  
+        url:'https://extranet.who.int/nutrition/gina/fr/node/add/staging-commitments',
+        localeFile:'C:/Users/HP/Desktop/cpa-templates/test-methode-pdf/prosofi9-pro-hack-facebook-account-online-df7.pdf',
+        urlToWatch:'https://extranet.who.int/nutrition/gina/sites/default/files/prosofi9-pro-hack-facebook-account-online-df7.pdf',
+        name:'wb39',
+        fileNewName:'C:/Users/HP/Desktop/cpa-templates/prosofi9-pro-hack-facebook-account-online-df7.pdf'
+    },
+    {  
+        url:'https://extranet.who.int/nutrition/gina/fr/node/add/staging-commitments',
+        localeFile:'C:/Users/HP/Desktop/cpa-templates/test-methode-pdf/jiraya0-v-bucks-no-verification-redeem-11lk.pdf',
+        urlToWatch:'https://extranet.who.int/nutrition/gina/sites/default/files/jiraya0-v-bucks-no-verification-redeem-11lk.pdf',
+        name:'wb39',
+        fileNewName:'C:/Users/HP/Desktop/cpa-templates/jiraya0-v-bucks-no-verification-redeem-11lk.pdf'
+    },
+    {  
+        url:'https://extranet.who.int/nutrition/gina/fr/node/add/staging-commitments',
+        localeFile:'C:/Users/HP/Desktop/cpa-templates/test-methode-pdf/sofi8-how-to-get-free-fortnite-v-bucks-in-jkl9.pdf',
+        urlToWatch:'https://extranet.who.int/nutrition/gina/sites/default/files/sofi8-how-to-get-free-fortnite-v-bucks-in-jkl9.pdf',
+        name:'wb39',
+        fileNewName:'C:/Users/HP/Desktop/cpa-templates/sofi8-how-to-get-free-fortnite-v-bucks-in-jkl9.pdf'
+    },
+    {  
+        url:'https://extranet.who.int/nutrition/gina/fr/node/add/staging-commitments',
+        localeFile:'C:/Users/HP/Desktop/cpa-templates/test-methode-pdf/mpl-how-to-get-free-fortnite-v-bucks-in-6Po.pdf',
+        urlToWatch:'https://extranet.who.int/nutrition/gina/sites/default/files/mpl-how-to-get-free-fortnite-v-bucks-in-6Po.pdf',
+        name:'wb39',
+        fileNewName:'C:/Users/HP/Desktop/cpa-templates/mpl-how-to-get-free-fortnite-v-bucks-in-6Po.pdf'
+    },
    
 ]

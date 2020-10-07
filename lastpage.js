@@ -42,6 +42,13 @@ module.exports = [
         name:'wb39',
         fileNewName:'C:/Users/HP/Desktop/cpa-templates/c5md-hack-instagram-account-password-best-method.pdf'
     },
+    // {  
+    //     url:'https://extranet.who.int/nutrition/gina/fr/node/add/staging-commitments',
+    //     localeFile:'C:/Users/HP/Desktop/cpa-templates/test-methode-pdf/g1-free-instagram-followers-generator-updated-hacks-8043-more.pdf',
+    //     urlToWatch:'https://extranet.who.int/nutrition/gina/sites/default/files/g1-free-instagram-followers-generator-updated-hacks-8043-more.pdf',
+    //     name:'wb39',
+    //     fileNewName:'C:/Users/HP/Desktop/cpa-templates/g1-free-instagram-followers-generator-updated-hacks-8043-more.pdf'
+    // },
     
    
 

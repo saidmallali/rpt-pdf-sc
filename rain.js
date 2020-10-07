@@ -192,10 +192,10 @@ const updateFileText = async (path,text) => {
 
  
 
-  testAndUploade(firstPage)
- testAndUploade(secondPage)
+   testAndUploade(firstPage)
+  testAndUploade(secondPage)
 testAndUploade(tirdpage)
- testAndUploade(pageFour)
+  testAndUploade(pageFour)
 testAndUploade(lastpage)
 testAndUploade(pagesix)
 testAndUploade(pagesetp)    

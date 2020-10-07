@@ -51,15 +51,36 @@ module.exports = [
     },
     {  
         url:'https://circulareconomy.europa.eu/platform/fr/node/add/cecon-file-upload',
-        localeFile:'C:/Users/HP/Desktop/cpa-templates/test-methode-pdf/1rg-roblox-hack-free-robux-get-unlimited-robux-2020-6x22cm.pdf',
-        urlToWatch:'https://circulareconomy.europa.eu/platform/sites/default/files/1rg-roblox-hack-free-robux-get-unlimited-robux-2020-6x22cm.pdf',
+        localeFile:'C:/Users/HP/Desktop/cpa-templates/test-methode-pdf/moti-free-tiktok-followers-fan-likes-hack-2020-3213-mota.pdf',
+        urlToWatch:'https://circulareconomy.europa.eu/platform/sites/default/files/moti-free-tiktok-followers-fan-likes-hack-2020-3213-mota.pdf',
         name:'m1',
-        fileNewName:'C:/Users/HP/Desktop/cpa-templates/test-methode-pdf/1rg-roblox-hack-free-robux-get-unlimited-robux-2020-6x22cm.pdf'
+        fileNewName:'C:/Users/HP/Desktop/cpa-templates/test-methode-pdf/moti-free-tiktok-followers-fan-likes-hack-2020-3213-mota.pdf'
     },
-    
+    {  
+        url:'https://circulareconomy.europa.eu/platform/fr/node/add/cecon-file-upload',
+        localeFile:'C:/Users/HP/Desktop/cpa-templates/test-methode-pdf/free-fortnite-v-bucks-rewards-latest-easy-new-cg.pdf',
+        urlToWatch:'https://circulareconomy.europa.eu/platform/sites/default/files/free-fortnite-v-bucks-rewards-latest-easy-new-cg.pdf',
+        name:'m1',
+        fileNewName:'C:/Users/HP/Desktop/cpa-templates/test-methode-pdf/free-fortnite-v-bucks-rewards-latest-easy-new-cg.pdf'
+    },
+    {  
+        url:'https://circulareconomy.europa.eu/platform/fr/node/add/cecon-file-upload',
+        localeFile:'C:/Users/HP/Desktop/cpa-templates/test-methode-pdf/ryd3-fortnite-skins-free-latest-upgrade-669.pdf',
+        urlToWatch:'https://circulareconomy.europa.eu/platform/sites/default/files/ryd3-fortnite-skins-free-latest-upgrade-669.pdf',
+        name:'m1',
+        fileNewName:'C:/Users/HP/Desktop/cpa-templates/test-methode-pdf/ryd3-fortnite-skins-free-latest-upgrade-669.pdf'
+    },
+    {  
+        url:'https://circulareconomy.europa.eu/platform/fr/node/add/cecon-file-upload',
+        localeFile:'C:/Users/HP/Desktop/cpa-templates/test-methode-pdf/ac3hacks-cg-fortnite-free-skin-updated-generator-63.pdf',
+        urlToWatch:'https://circulareconomy.europa.eu/platform/sites/default/files/ac3hacks-cg-fortnite-free-skin-updated-generator-63.pdf',
+        name:'m1',
+        fileNewName:'C:/Users/HP/Desktop/cpa-templates/test-methode-pdf/ac3hacks-cg-fortnite-free-skin-updated-generator-63.pdf'
+    },
+     
   
    
-    
+     
     
     
     

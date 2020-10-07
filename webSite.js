@@ -221,7 +221,7 @@ module.exports = [
         url:'https://ec.europa.eu/environment/ecoap/user/register_fr',
         uploadeTage:'#edit-profile-main-field-profile-documents-und-0-upload',
         btnUploadeTage:'#edit-profile-main-field-profile-documents-und-0-upload-button',
-    },
+    }, 
     {
         url:'https://edge.fbk.eu/en/node/21',
         uploadeTage:'#edit-submitted-related-media-allegato-attachment-upload',
